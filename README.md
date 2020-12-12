@@ -4,7 +4,7 @@ Mask Detection using OpenCV
 The aim is to create a deep learning model using Keras and Tensorflow to detect whether a person is wearing a face mask or not. Wearing masks and social distancing are two most precautions to take.  
 I have used OpenCV to take a video as input and return a set of images that detect whether an individual is wearing a mask or not. This will be further updated to achieve a higher accuracy.  
 The CNN Model built is explained with the help of a flow diagram, as shown below.  
-![CNN Model](Model.JPG)
+![CNN Model](https://github.com/taarusshwd/Face-Mask-Identifier/blob/main/Model%20Screenshot/Model.JPG)
 
 ## Dataset
 The dataset used in this project can be found [here](https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset). 
